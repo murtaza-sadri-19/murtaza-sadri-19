@@ -13,4 +13,3 @@ I believe that engineering is not just about equations and calculations; it's ab
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza-sadri-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=murtaza-sadri-19&icon=0&color=0)](https://visitcount.itsvg.in)
