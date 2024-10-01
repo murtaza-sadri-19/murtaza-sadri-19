@@ -11,7 +11,4 @@ I believe that engineering is not just about equations and calculations; it's ab
 ![](https://github-readme-stats.vercel.app/api?username=murtaza-sadri-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=murtaza-sadri-19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza-sadri-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[! [Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula&height=200&days=30&from=2022-01-01&to=2022-01-31)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
