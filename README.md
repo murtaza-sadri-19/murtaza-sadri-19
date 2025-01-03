@@ -20,6 +20,6 @@ I believe that engineering is not just about equations and calculations; it's ab
 ## 🔝 Contibutions
 ---
 ![](https://github-contributor-stats.vercel.app/api?username=murtaza-sadri-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-activity-graph.vercel.app/graph?username=murtaza-sadri-19&theme=dracula&height=200&days=30&from=2022-01-01&to=2024-12-31)
+![](https://github-readme-activity-graph.vercel.app/graph?username=murtaza-sadri-19&theme=dracula&height=200&days=30&from=2022-01-01&to=2027-12-31)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
