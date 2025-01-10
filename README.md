@@ -1,7 +1,8 @@
-# 💫 **About Me**:
-I believe that engineering is not just about equations and calculations; it's about bringing imagination to life. My passion lies in bridging the gap between theory and practicality, particularly in the field of Research and Data Science. I thrive on finding elegant solutions to real-world problems. Currently, I am an undergraduate student at Shri G.S. Institute of Technology & Science, pursuing Information Technology engineering.<br>I'm actively engaged in various projects in the domain of AI and ML. For instance, I collaborated on a research and fabrication project for ISRO's rover design competition 2024 URSC 2024 (IRoC-U2024). Additionally, I participated in a project for automation in agricultural equipment under SAE TIFAN 2024. Moreover, as an active member of my university's engineering club, we constantly work on exciting projects and challenge the status quo.<br>I value continuous learning and diverse perspectives. I'm eager to explore opportunities to make a positive impact on the world, particularly in the field of Research and Machine Intelligence. I invite you to connect, learn, and innovate together.
-
-
+## 🔝 Contibutions
+---
+![](https://github-contributor-stats.vercel.app/api?username=murtaza-sadri-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=murtaza-sadri-19&theme=dracula&height=200&days=30&from=2022-01-01&to=2027-12-31)
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/murtaza-sadriwala-035384290/) 
 
@@ -17,9 +18,8 @@ I believe that engineering is not just about equations and calculations; it's ab
 ---
 ![](https://github-profile-trophy.vercel.app/?username=murtaza-sadri-19&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
 ---
-## 🔝 Contibutions
----
-![](https://github-contributor-stats.vercel.app/api?username=murtaza-sadri-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-activity-graph.vercel.app/graph?username=murtaza-sadri-19&theme=dracula&height=200&days=30&from=2022-01-01&to=2027-12-31)
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 💫 **About Me**:
+I believe that engineering is not just about equations and calculations; it's about bringing imagination to life. My passion lies in bridging the gap between theory and practicality, particularly in the field of Research and Data Science. I thrive on finding elegant solutions to real-world problems. Currently, I am an undergraduate student at Shri G.S. Institute of Technology & Science, pursuing Information Technology engineering.<br>I'm actively engaged in various projects in the domain of AI and ML. For instance, I collaborated on a research and fabrication project for ISRO's rover design competition 2024 URSC 2024 (IRoC-U2024). Additionally, I participated in a project for automation in agricultural equipment under SAE TIFAN 2024. Moreover, as an active member of my university's engineering club, we constantly work on exciting projects and challenge the status quo.<br>I value continuous learning and diverse perspectives. I'm eager to explore opportunities to make a positive impact on the world, particularly in the field of Research and Machine Intelligence. I invite you to connect, learn, and innovate together.
