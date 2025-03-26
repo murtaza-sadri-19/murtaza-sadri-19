@@ -8,7 +8,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=murtaza-sadri-19&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
----
 # 📊 GitHub Stats:
 ---
 
@@ -21,21 +20,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=murtaza-sadri-19&theme=gruvbox-light&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza-sadri-19&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
----
+
 ## 🌐 Socials:
+---
 <p align="left">
 <a href="https://www.linkedin.com/in/murtaza-sadriwala-035384290/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/murtaza-sadriwala-035384290/" height="30" width="40" /></a>
 </p>
 
----
 # 💻 Tech Stack:
+---
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
@@ -56,7 +52,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
 ---
-
 # 💫 **About Me**:
 I believe that engineering is not just about equations and calculations; it's about bringing imagination to life. My passion lies in bridging the gap between theory and practicality, particularly in the field of Research and Data Science. I thrive on finding elegant solutions to real-world problems.
 
