@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murtaza-sari-19&theme=gruvbox-light&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=murtaza-sadri-19&theme=gruvbox-light&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ---
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/murtaza-sadriwala-035384290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/murtaza-sadriwala-035384290/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/murtaza-sadriwala-035384290/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/murtaza-sadriwala-035384290/" height="30" width="40" /></a>
 </p>
 
 ---
