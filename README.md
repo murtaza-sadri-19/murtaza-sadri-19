@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtaza-sadri-19&theme=gruvbox_light&hide_border=false" alt="GitHub Streak"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murtaza-sari-19&theme=gruvbox-light&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
