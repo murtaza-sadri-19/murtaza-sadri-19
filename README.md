@@ -1,62 +1,236 @@
-## 🔝 Contributions
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=murtaza-sadri-19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Murtaza Sadriwala
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murtaza-sadri-19&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-# 📊 GitHub Stats:
----
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=murtaza-sadri-19&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true&count_recent_contributions=true" alt="GitHub Contributor Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtaza-sadri-19&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza-sadri-19&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-</p>
-
-
-## 🌐 Socials:
----
-<p align="left">
-<a href="https://www.linkedin.com/in/murtaza-sadriwala-035384290/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/murtaza-sadriwala-035384290/" height="30" width="40" /></a>
-</p>
-
-# 💻 Tech Stack:
----
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+Engineering student focused on **Machine Learning, Data Science, and Applied Research**.  
+Interested in building systems that translate theory into real-world impact.
 
 ---
-# 💫 **About Me**:
-I believe that engineering is not just about equations and calculations; it's about bringing imagination to life. My passion lies in bridging the gap between theory and practicality, particularly in the field of Research and Data Science. I thrive on finding elegant solutions to real-world problems.
 
-Currently, I am an undergraduate student at Shri G.S. Institute of Technology & Science, pursuing Information Technology engineering. I'm actively engaged in various projects in the domain of AI and ML. For instance, I collaborated on a research and fabrication project for ISRO's rover design competition 2024 URSC 2024 (IRoC-U2024). Additionally, I participated in a project for automation in agricultural equipment under SAE TIFAN 2024. Moreover, as an active member of my university's engineering club, we constantly work on exciting projects and challenge the status quo.
+## About
 
-I value continuous learning and diverse perspectives. I'm eager to explore opportunities to make a positive impact on the world, particularly in the field of Research and Machine Intelligence. I invite you to connect, learn, and innovate together.
+I believe engineering is not just about equations, but about **making ideas work in the real world**.
+
+I am an undergraduate student pursuing **Information Technology** at  
+**Shri G. S. Institute of Technology & Science, Indore**.
+
+My work spans:
+- Machine Learning & Deep Learning
+- Computer Vision & OCR systems
+- Applied NLP & fact-checking systems
+- Research-oriented engineering projects
+
+I enjoy working on problems where correctness, interpretability, and system design matter more than surface-level performance.
+
+---
+
+## Education
+
+**B.Tech – Information Technology**  
+Shri G. S. Institute of Technology & Science, Indore  
+**Expected Graduation:** 2026
+
+---
+
+## Experience & Projects (Selected)
+
+### Research & Engineering Projects
+- **ISRO IRoC (URSC) 2024**  
+  Research and fabrication project for rover subsystem design.
+
+- **SAE TIFAN 2024**  
+  Automation system for agricultural equipment.
+
+- **TruthTrack**  
+  Real-time news claim verification system focusing on:
+  - Context-aware relevance filtering  
+  - Reduced over-computation in NLP pipelines  
+  - Explainable confidence scoring
+
+- **OCR & Text Recognition Systems**
+  - CNN-based character recognition  
+  - CRNN + CTC pipelines for word-level recognition  
+  - Focus on low-resource and handwritten data
+
+---
+
+## Technical Skills
+
+### Programming
+- C++
+- Java
+- Python
+- JavaScript
+
+### Machine Learning & Data Science
+- TensorFlow / Keras
+- scikit-learn
+- NumPy, Pandas
+- Matplotlib, Plotly
+
+### Computer Vision & NLP
+- OpenCV
+- OCR pipelines
+- Feature extraction & model optimization
+
+### Tools & Platforms
+- Git & GitHub
+- Linux
+- Flask
+- Anaconda
+- Google Colab
+- Figma (UI prototyping)
+
+---
+
+## GitHub Activity
+
+- Consistent contributor across ML, CV, and system-oriented repositories
+- Focus on **clean architecture**, **readability**, and **scalability**
+- Preference for **custom models over heavy pretrained black boxes** where appropriate
+
+(Stats widgets intentionally removed for long-term stability.)
+
+---
+
+## Interests
+
+- Machine Intelligence & Research Engineering  
+- Explainable AI  
+- Low-resource ML systems  
+- Applied algorithms & system design  
+
+---
+
+## Connect
+
+- **LinkedIn:**  
+  https://www.linkedin.com/in/murtaza-sadriwala-035384290/
+
+- **GitHub:**  
+  https://github.com/murtaza-sadri-19
+
+---
+
+## Philosophy
+
+> Learn deeply.  
+> Build carefully.  
+> Optimize for understanding, not just output.
+
+---
+
+# Murtaza Sadriwala
+
+Engineering student focused on **Machine Learning, Data Science, and Applied Research**.  
+Interested in building systems that translate theory into real-world impact.
+
+---
+
+## About
+
+I believe engineering is not just about equations, but about **making ideas work in the real world**.
+
+I am an undergraduate student pursuing **Information Technology** at  
+**Shri G. S. Institute of Technology & Science, Indore**.
+
+My work spans:
+- Machine Learning & Deep Learning
+- Computer Vision & OCR systems
+- Applied NLP & fact-checking systems
+- Research-oriented engineering projects
+
+I enjoy working on problems where correctness, interpretability, and system design matter more than surface-level performance.
+
+---
+
+## Education
+
+**B.Tech – Information Technology**  
+Shri G. S. Institute of Technology & Science, Indore  
+**Expected Graduation:** 2026
+
+---
+
+## Experience & Projects (Selected)
+
+### Research & Engineering Projects
+- **ISRO IRoC (URSC) 2024**  
+  Research and fabrication project for rover subsystem design.
+
+- **SAE TIFAN 2024**  
+  Automation system for agricultural equipment.
+
+- **TruthTrack**  
+  Real-time news claim verification system focusing on:
+  - Context-aware relevance filtering  
+  - Reduced over-computation in NLP pipelines  
+  - Explainable confidence scoring
+
+- **OCR & Text Recognition Systems**
+  - CNN-based character recognition  
+  - CRNN + CTC pipelines for word-level recognition  
+  - Focus on low-resource and handwritten data
+
+---
+
+## Technical Skills
+
+### Programming
+- C++
+- Java
+- Python
+- JavaScript
+
+### Machine Learning & Data Science
+- TensorFlow / Keras
+- scikit-learn
+- NumPy, Pandas
+- Matplotlib, Plotly
+
+### Computer Vision & NLP
+- OpenCV
+- OCR pipelines
+- Feature extraction & model optimization
+
+### Tools & Platforms
+- Git & GitHub
+- Linux
+- Flask
+- Anaconda
+- Google Colab
+- Figma (UI prototyping)
+
+---
+
+## GitHub Activity
+
+- Consistent contributor across ML, CV, and system-oriented repositories
+- Focus on **clean architecture**, **readability**, and **scalability**
+- Preference for **custom models over heavy pretrained black boxes** where appropriate
+---
+
+## Interests
+
+- Machine Intelligence & Research Engineering  
+- Explainable AI  
+- Low-resource ML systems  
+- Applied algorithms & system design  
+
+---
+
+## Connect
+
+- **LinkedIn:**  
+  https://www.linkedin.com/in/murtaza-sadriwala-035384290/
+
+- **GitHub:**  
+  https://github.com/murtaza-sadri-19
+
+---
+
+## Philosophy
+
+> Learn deeply.  
+> Build carefully.  
+> Optimize for understanding, not just output.
 
 ---
