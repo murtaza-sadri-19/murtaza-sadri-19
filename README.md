@@ -1,117 +1,95 @@
+<div align="center">
+
 # Murtaza Sadriwala
 
-Engineering student focused on **Machine Learning, Data Science, and Applied Research**.  
-Interested in building systems that translate theory into real-world impact.
+**AI/ML Engineer · Backend Systems · GATE 2026 AIR 1765**
+
+*3rd year IT @ SGSITS Indore · Ex AI Research Intern @ CloudRaft · Patent Holder*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murtazasadriwala/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tech-trove-murtaza-sadriwala.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/murtaza19/)
+
+</div>
 
 ---
 
-## About
+I build systems that go from idea to production — ML pipelines, retrieval architectures, computer vision backends. Less interest in notebooks that stay notebooks.
 
-I believe engineering is not just about equations, but about **making ideas work in the real world**.
-
-I am an undergraduate student pursuing **Information Technology** at  
-**Shri G. S. Institute of Technology & Science, Indore**.
-
-My work spans:
-- Machine Learning & Deep Learning
-- Computer Vision & OCR systems
-- Applied NLP & fact-checking systems
-- Research-oriented engineering projects
-
-I enjoy working on problems where correctness, interpretability, and system design matter more than surface-level performance.
+Currently focused on **applied AI/ML** and **backend engineering**. Open to summer internships (2026) with a PPO path.
 
 ---
 
-## Education
+## What I've shipped
 
-**B.Tech – Information Technology**  
-Shri G. S. Institute of Technology & Science, Indore  
-**Expected Graduation:** 2026
+**@ CloudRaft** *(AI Research Intern, Jul–Nov 2025)*
+- Built a RAG pipeline over ~3,000 pages of technical documentation — replaced a manual troubleshooting workflow with multi-hop query resolution
+- Layered a Graph RAG framework on top for entity-aware retrieval, improving grounding on cross-document queries
+- Optimised with FAISS-based ANN indexing → **~40% reduction in query latency** vs keyword search
+- Built a Streamlit clustering dashboard for high-dimensional business data; used internally for trend analysis
 
----
-
-## Experience & Projects (Selected)
-
-### Research & Engineering Projects
-- **ISRO IRoC (URSC) 2024**  
-  Research and fabrication project for rover subsystem design.
-
-- **SAE TIFAN 2024**  
-  Automation system for agricultural equipment.
-
-- **TruthTrack**  
-  Real-time news claim verification system focusing on:
-  - Context-aware relevance filtering  
-  - Reduced over-computation in NLP pipelines  
-  - Explainable confidence scoring
-
-- **OCR & Text Recognition Systems**
-  - CNN-based character recognition  
-  - CRNN + CTC pipelines for word-level recognition  
-  - Focus on low-resource and handwritten data
+**@ CompuRf, SGSITS** *(AI & Backend Developer, Mar–May 2025)*
+- Deployed a CV inspection backend (Python + OpenCV) achieving **95% spot detection accuracy**
+- Automated a fully manual QC process → **~80% reduction in manual review time**, 30% fewer errors
+- Built RESTful APIs consumed by a Flutter app; avg response under ~2s
 
 ---
 
-## Technical Skills
+## Projects
 
-### Programming
-- C++
-- Java
-- Python
-- JavaScript
+### [TruthTrack](https://huggingface.co/spaces/murtaza19/Veritify-News-Vigilance) — Real-Time News Verification
+*Top 25 · ICEA TruthTell 2025*
 
-### Machine Learning & Data Science
-- TensorFlow / Keras
-- scikit-learn
-- NumPy, Pandas
-- Matplotlib, Plotly
+Fact-verification pipeline combining dense semantic retrieval and claim–evidence alignment. Deployed live on HuggingFace Spaces with real-time news ingestion.
 
-### Computer Vision & NLP
-- OpenCV
-- OCR pipelines
-- Feature extraction & model optimization
-
-### Tools & Platforms
-- Git & GitHub
-- Linux
-- Flask
-- Anaconda
-- Google Colab
-- Figma (UI prototyping)
+- Replaced fixed thresholds with adaptive similarity scoring
+- **~97% reduction in fact-check time** — from ~300s to under 10s per claim
+- Flask API with per-claim explainability signals; sub-second latency on free-tier compute
 
 ---
 
-## GitHub Activity
+### Inventory & Demand Prediction System
+*Spring Boot · Maven · REST*
 
-- Consistent contributor across ML, CV, and system-oriented repositories
-- Focus on **clean architecture**, **readability**, and **scalability**
-- Preference for **custom models over heavy pretrained black boxes** where appropriate
-
-(Stats widgets intentionally removed for long-term stability.)
+Demand-forecasting backend with layered enterprise architecture — forecasting logic fully decoupled from persistence so models swap without API changes. Interface-driven domain model, structured error handling across all endpoints.
 
 ---
 
-## Interests
+## Stack
 
-- Machine Intelligence & Research Engineering  
-- Explainable AI  
-- Low-resource ML systems  
-- Applied algorithms & system design  
+```
+AI/ML       PyTorch · TensorFlow · Scikit-learn · HuggingFace Transformers
+            RAG · Graph RAG · FAISS · Computer Vision (OpenCV) · NLP
 
----
+Backend     Spring Boot · Spring Security · FastAPI · Flask · REST APIs
 
-## Connect
+Infra       Docker · Azure · Git/GitHub · CI/CD
 
-- **LinkedIn:**  
-  https://www.linkedin.com/in/murtaza-sadriwala-035384290/
+Databases   PostgreSQL · MySQL
 
-- **GitHub:**  
-  https://github.com/murtaza-sadri-19
+Languages   Python · Java · JavaScript (ES6+) · SQL
+```
 
 ---
 
-## Philosophy
+## Highlights
 
-> Learn deeply.  
-> Build carefully.  
-> Optimize for understanding, not just output.
+- **GATE 2026 — AIR 1765** (CSIT, ~99th percentile)
+- **Team Captain · Team Nakshatra** — ISRO Robotics Challenge 2026 (IRoC–U)
+- **Top 300 · Amazon ML Challenge 2025**
+- **Patent Holder** (Jan 2024)
+- **Winner · Skillathon ML Track** — #include, SGSITS (Sep 2024)
+
+---
+
+## Currently
+
+- 3rd year B.Tech IT · Minor: Data Science · CGPA 8.47
+- Looking for **Summer 2026 internships** in AI/ML or backend engineering
+- Open to roles with a PPO path
+
+---
+
+<div align="center">
+<sub>If you're here from my resume — the projects above are the ones worth looking at. Everything else is in the repos.</sub>
+</div>
