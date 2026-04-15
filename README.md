@@ -37,7 +37,7 @@ Currently focused on **applied AI/ML** and **backend engineering**. Open to summ
 
 ## Projects
 
-### [TruthTrack](https://huggingface.co/spaces/murtaza19/Veritify-News-Vigilance) — Real-Time News Verification
+### [Veritfy](https://huggingface.co/spaces/murtaza19/Veritify-News-Vigilance) — Real-Time News Verification
 *Top 25 · ICEA TruthTell 2025*
 
 Fact-verification pipeline combining dense semantic retrieval and claim–evidence alignment. Deployed live on HuggingFace Spaces with real-time news ingestion.
